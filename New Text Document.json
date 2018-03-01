@@ -1,0 +1,8 @@
+{
+  "products": [
+       { "id": 1,"name": "Alienware","price": "500$","cratedAt": "23/11/2017", "updatedAt": "","sellerName": "abdelrahman" },
+       { "id": 2,"name": "Alienware","price": "600$","cratedAt": "20/10/2017", "updatedAt": "","sellerName": "ammar" },
+       { "id": 3,"name": "Apple","price": "800$","cratedAt": "1/2/2018", "updatedAt": "2/2/2018","sellerName": "omar" },
+       { "id": 4,"name": "HP","price": "7000$","cratedAt": "25/12/2017", "updatedAt": "1/1/2018","sellerName": "Abdelrahman" }
+    ]
+}
